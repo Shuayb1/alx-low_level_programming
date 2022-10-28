@@ -12,7 +12,7 @@ int main(void)
 
 	long longVar;
 
-	long longLongVar;
+	long long longLongVar;
 
 	float floatVar;
 
