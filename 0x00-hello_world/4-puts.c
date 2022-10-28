@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - print the message
- * Return 0 to end the program
+ * Return: 0 to end the program
 */
 int main(void)
 {
